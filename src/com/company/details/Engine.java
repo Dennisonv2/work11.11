@@ -23,6 +23,6 @@ public class Engine {
     public String toString(){
         return "Двигатель:["+
                 "\nМощность="+power+
-                "\nПроизводитель="+manufacturer+"]";
+                "\nПроизводитель двигателя="+manufacturer+"]";
     }
 }
